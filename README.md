@@ -50,7 +50,7 @@ Please cite the following reference if you utilize this repository for your proj
 
 ```
 @article{zhao2020collaborative,
-  title={Collaborative Training between Region Proposal Localization and Classi? cation for Domain Adaptive Object Detection},
+  title={Collaborative Training between Region Proposal Localization and Classification for Domain Adaptive Object Detection},
   author={Zhao, Ganlong and Li, Guanbin and Xu, Ruijia and Lin, Liang},
   journal={arXiv preprint arXiv:2009.08119},
   year={2020}
